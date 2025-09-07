@@ -1,0 +1,2 @@
+# Image  Classification of Fashion Apparel using Convolutional Neural Networks
+A deep learning project using Convolutional Neural Networks (CNNs) to classify fashion apparel images from the Fashion-MNIST dataset into 10 categories. The project includes data preprocessing, model building, training, evaluation, and visualization with accuracy, loss curves, confusion matrix, precision, recall, and F1-score.
